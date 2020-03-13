@@ -1,17 +1,20 @@
-<mxfile modified="2020-03-13T07:13:07.034Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="FkkYCldxdg2UM8EXPQ9f" version="12.8.4" type="github">
+<mxfile modified="2020-03-13T07:28:39.271Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="MUWhM2ut1G6kguM4aH7P" version="12.8.4" type="github">
   <diagram id="sURR1SHCAla83oJiOlZ1" name="Page-1">
     <mxGraphModel dx="1372" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fpItD1PaSmq3RKMQFErg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="440" width="690" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="fpItD1PaSmq3RKMQFErg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1165" y="490" width="650" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="820" y="1080" width="1000" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-70" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="1140" width="25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-67" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="1140" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-66" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1072.5" y="1140" width="25" height="40" as="geometry" />
@@ -20,79 +23,61 @@
           <mxGeometry x="820" y="810" width="1000" height="250" as="geometry" />
         </mxCell>
         <mxCell id="l3v4fueEr0LTtIeN0S5f-3" value="&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="820" y="510" width="570" height="280" as="geometry" />
+          <mxGeometry x="820" y="510" width="300" height="290" as="geometry" />
         </mxCell>
         <mxCell id="l3v4fueEr0LTtIeN0S5f-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;用户接口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1175" y="605" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="l3v4fueEr0LTtIeN0S5f-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;邀请活动接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1305" y="605" width="121" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;好友助力接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="545" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;助力满抽接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="545" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;问答活动接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="626" width="120" height="60" as="geometry" />
+        <mxCell id="fpItD1PaSmq3RKMQFErg-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;问答活动接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="1435" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;公益活动接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="626" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="626" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;插件红包接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="626" width="120" height="60" as="geometry" />
+          <mxGeometry x="1445" y="686" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;QQ运动红包接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="626" width="120" height="60" as="geometry" />
+          <mxGeometry x="1445" y="602.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;QQ卡券红包接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="fpItD1PaSmq3RKMQFErg-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;QQ卡券红包接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;赌博活动接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;签到活动接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="626" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;。。。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-11" value="接入层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="510" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="440" width="410" height="350" as="geometry" />
-        </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-14" value="tars服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1410" y="440" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="490" width="390" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1419" y="650" width="390" height="115" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-17" value="http接入层服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1419" y="490" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;红包活动&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="520" width="110" height="60" as="geometry" />
+        <mxCell id="fpItD1PaSmq3RKMQFErg-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;红包活动&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="1175" y="520" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;游戏活动&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="520" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;问答二期&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="520" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-22" value="tafgo微服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1425" y="650" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-23" value="红包服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="685" width="120" height="60" as="geometry" />
+        <mxCell id="fpItD1PaSmq3RKMQFErg-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;游戏活动&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="1305" y="520" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-24" value="微信服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="685" width="120" height="60" as="geometry" />
+          <mxGeometry x="1306" y="686" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-26" value="&lt;span style=&quot;font-size: 14px&quot;&gt;QQ登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="830" width="120" height="60" as="geometry" />
@@ -166,9 +151,6 @@
         <mxCell id="fpItD1PaSmq3RKMQFErg-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Redis&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1100" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-52" value="&lt;font style=&quot;font-size: 14px&quot;&gt;MySQL&lt;br&gt;(CDB)&lt;br&gt;&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="1100" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-53" value="&lt;font style=&quot;font-size: 14px&quot;&gt;MySQL&lt;br&gt;(MDB)&lt;br&gt;&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1100" width="60" height="80" as="geometry" />
         </mxCell>
@@ -178,23 +160,29 @@
         <mxCell id="fpItD1PaSmq3RKMQFErg-55" value="服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="1210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-56" value="&lt;font style=&quot;font-size: 14px&quot;&gt;C1实体机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fpItD1PaSmq3RKMQFErg-57" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Hera Docker&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="1230" width="120" height="60" as="geometry" />
+        <mxCell id="fpItD1PaSmq3RKMQFErg-57" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;sumeru&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-62" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;TAF&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="820" y="440" width="570" height="60" as="geometry" />
+          <mxGeometry x="820" y="440" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-64" value="代理层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fpItD1PaSmq3RKMQFErg-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Nginx代理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="985" y="445" width="225" height="50" as="geometry" />
+          <mxGeometry x="865" y="445" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilqTxZSu37OMNc5QiFHV-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;红包活动&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="686" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ilqTxZSu37OMNc5QiFHV-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;集卡活动接口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ilqTxZSu37OMNc5QiFHV-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;。。。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="686" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
