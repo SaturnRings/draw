@@ -1,4 +1,4 @@
-<mxfile modified="2020-03-22T12:04:46.207Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="WPr1k6YPLzo4FsmiIXRQ" version="12.8.8" type="github" pages="2">
+<mxfile modified="2020-03-22T12:05:06.615Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="k6B9_2H33NYC1VaN4uIj" version="12.8.8" type="github" pages="2">
   <diagram id="sURR1SHCAla83oJiOlZ1" name="2019-架构图">
     <mxGraphModel dx="1527" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -188,16 +188,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xzfdbiOb4ZBhjbxA33kZ" name="旧架构的问题">
-    <mxGraphModel dx="1299" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="z0cf0yQ7VzaqxdiX1D_k-0" />
         <mxCell id="z0cf0yQ7VzaqxdiX1D_k-1" parent="z0cf0yQ7VzaqxdiX1D_k-0" />
-        <mxCell id="Fb9gNRG0ohkrOa2VZiiH-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
-          <mxGeometry x="1300" y="230" width="690" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="Fb9gNRG0ohkrOa2VZiiH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
-          <mxGeometry x="1335" y="280" width="650" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="Fb9gNRG0ohkrOa2VZiiH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
           <mxGeometry x="200" y="850" width="1000" height="110" as="geometry" />
         </mxCell>
@@ -248,12 +242,6 @@
         </mxCell>
         <mxCell id="Fb9gNRG0ohkrOa2VZiiH-19" value="接入层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
           <mxGeometry x="200" y="280" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fb9gNRG0ohkrOa2VZiiH-20" value="tars服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
-          <mxGeometry x="1595" y="230" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fb9gNRG0ohkrOa2VZiiH-21" value="http接入层服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
-          <mxGeometry x="1604" y="280" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fb9gNRG0ohkrOa2VZiiH-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;红包活动&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;flipH=0;flipV=1;" vertex="1" parent="z0cf0yQ7VzaqxdiX1D_k-1">
           <mxGeometry x="550" y="315" width="120" height="60" as="geometry" />
