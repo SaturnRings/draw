@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T09:13:55.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="N2_SewE3Wb0O1W0kLrS5" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T09:28:10.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QbfbponW2mSyKmytXBNM" version="14.2.5" type="github">
   <diagram id="au0Erzdakt1j5jupM2V9" name="Page-1">
-    <mxGraphModel dx="1242" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,64 @@
           <mxGeometry x="110" y="180" width="140" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="Vkco3mDPTDmyLJNm2LzN-85" value="TAF平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="70" height="30" as="geometry" />
+          <mxGeometry x="145" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-91" value="自动部署" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-92" value="自动缩扩容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-93" value="服务注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-94" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-95" value="PP监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-96" value="关联调度策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-97" value="服务配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="180" width="140" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-99" value="第三方服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-101" value="天域防刷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-102" value="鹰眼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-103" value="007监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-104" value="米大师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-105" value="验证码服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-106" value="七彩石" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-107" value="名字服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-108" value="微信防刷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-111" value="阿塔/Boss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkco3mDPTDmyLJNm2LzN-112" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
