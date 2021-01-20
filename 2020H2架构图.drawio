@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T07:38:59.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="m2roy8mviCd45ZG7jYsO" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T07:47:14.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tacwQVnjGE4--WLhFWH_" version="14.2.5" type="github">
   <diagram id="au0Erzdakt1j5jupM2V9" name="Page-1">
     <mxGraphModel dx="1691" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -11,16 +11,19 @@
           <mxGeometry x="250" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i1EOuXeOluBrcuIS-FtF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="500" height="90" as="geometry" />
+          <mxGeometry x="250" y="240" width="490" height="310" as="geometry" />
         </mxCell>
         <mxCell id="i1EOuXeOluBrcuIS-FtF-4" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="250" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i1EOuXeOluBrcuIS-FtF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400" width="880" height="90" as="geometry" />
+          <mxGeometry x="750" y="240" width="380" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="i1EOuXeOluBrcuIS-FtF-6" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400" width="80" height="30" as="geometry" />
+        <mxCell id="i1EOuXeOluBrcuIS-FtF-6" value="微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i1EOuXeOluBrcuIS-FtF-8" value="stgw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="135" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
